@@ -1,4 +1,6 @@
 
+![layers](https://user-images.githubusercontent.com/52726703/88010339-0c420500-caeb-11ea-875c-d04e6d5076ef.jpg)
+
 ### Hi there, Sergio here!🖥️⚗️
 I'm a computational chemist on a journey through data science.
 
