@@ -1,5 +1,3 @@
-![layers_red](https://user-images.githubusercontent.com/52726703/88010638-bb7edc00-caeb-11ea-915b-051b8e3b8c79.jpg)
-
 ### Hi there, Sergio here!🖥️⚗️
 I'm a computational chemist on a journey through data science.
 
