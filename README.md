@@ -1,5 +1,5 @@
 ### Hi there, Sergio here!🖥️⚗️
-Computational chemist passionate about using data-driven approaches to solve problems cooperatively while improving people's quality of life.
+Data scientist and computational chemist passionate about using data-driven approaches to solve problems cooperatively while improving people's quality of life.
 
 > _The Sceptical Chymist: or Chymico-Physical Doubts & Paradoxes_ is a book by Robert Boyle published in `1661` and made available online by the [Project Guttenberg](http://www.gutenberg.org/ebooks/22914). 
 
